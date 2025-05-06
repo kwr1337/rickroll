@@ -67,7 +67,7 @@ The project implements a custom responsive grid system using CSS Grid and styled
 ## Deployment
 
 The site can be easily deployed to various platforms:
-- **Vercel**: Connect your GitHub repository
+- **Vercel**: https://rickroll-obuw.vercel.app/
 
 ## SEO and Accessibility
 

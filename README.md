@@ -67,10 +67,7 @@ The project implements a custom responsive grid system using CSS Grid and styled
 ## Deployment
 
 The site can be easily deployed to various platforms:
-
-- **Netlify**: Connect your GitHub repository or upload the `dist` folder
 - **Vercel**: Connect your GitHub repository
-- **GitHub Pages**: Deploy the `dist` folder
 
 ## SEO and Accessibility
 
